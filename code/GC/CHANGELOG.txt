@@ -1,0 +1,7 @@
+Change log for GCmex wrapper for graph cuts
+written by Shai Bagon
+www.wisdom.weizmann.ac.il/~bagon
+
+V1.9 - allowing truncation of pair-wise terms for non-regular alpha-expansion terms
+
+

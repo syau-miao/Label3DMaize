@@ -1,0 +1,43 @@
+###  Run Label3DMaize2.exe 
+The software executable program “Label3DMaize.exe ”  is provided in the 'bin' folder.
+Label3DMaize depends on  matlab R2017a (9.2)
+If you want to run it，the r2017a (9.2) runtime should be installed first
+[matlab](https://www.mathworks.com/products/compiler/matlab-runtime.html). 
+
+
+### Data
+The point clouds shown in our paper are provided in the 'TestData' folder.
+Txt format point clouds are provided in the 'TestData/TXT' folder
+Ply format point cloud   is provided in the 'TestData/PLY' folder
+
+
+### Source code
+Our source code is provided in the 'code' folder.
+The code was written in MATLAB r2017a. Run the "run. m" to start program in MATLAB r2017a.
+
+### Paper Result
+Our segment results (label file) are provided in the 'PaperResult' folder.
+The coarse segmentation results are provided in the 'PaperResult/Label_Coarse Segmentation Results'.
+The fine segmentation results are provided in the 'PaperResult/Label_Fine Sgementation Results'.
+The sample based segmentation results are provided in the 'PaperResult/Label_Sample based Segmentation Results'
+
+
+### How to use Label3DMaize
+The software manual is in document ‘User Manual.pdf’.
+
+
+### The Supplementary Data
+The Supplementary Data S1 can be found in folder "TestData/TXT/"
+The Supplementary Data S2 can be found in folder "PaperResult/Label_Coarse  Segmentation Results/"
+The Supplementary Data S3 can be found in folder "PaperResult/Label_Fine  Sgementation Results/"
+The Supplementary Data S4 can be found in folder "PaperResult/Label_Sample based  Segmentation Results/"
+
+### License
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License 
+as published by the Free Software Foundation; either version 3 of the License or (at your option) any later version. 
+The full text of the license can be found in the accompanying LICENSE file.
+
+
+Should you have any questions, comments, or suggestions, please contact us at miaoteng@syau.edu.cn or wenwl@nercita.org.cn
+
+
