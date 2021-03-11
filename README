@@ -4,33 +4,30 @@ Label3DMaize depends on  matlab R2017a (9.2)
 If you want to run it，the r2017a (9.2) runtime should be installed first
 [matlab](https://www.mathworks.com/products/compiler/matlab-runtime.html). 
 
-
-### Data
-The point clouds shown in our paper are provided in the 'TestData' folder.
-Txt format point clouds are provided in the 'TestData/TXT' folder
-Ply format point cloud   is provided in the 'TestData/PLY' folder
-
+### How to use Label3DMaize
+The software manual is in document ‘User Manual.pdf’.
 
 ### Source code
 Our source code is provided in the 'code' folder.
 The code was written in MATLAB r2017a. Run the "run. m" to start program in MATLAB r2017a.
 
+### Data
+The maize plant point clouds reconstructed from multi-view images  are provided in the 'Supplementary Data\S1\1-Input Point Clouds' folder.
+The maize plant point clouds  acquired by handeld 3D scanner are provided in the 'Supplementary Data\S2\1-Input Point Clouds' folder.
+Point clouds for other crops are provided in the 'Supplementary Data\S3\1-Input Point Clouds' folder.
+
 ### Paper Result
-Our segment results (label file) are provided in the 'PaperResult' folder.
-The coarse segmentation results are provided in the 'PaperResult/Label_Coarse Segmentation Results'.
-The fine segmentation results are provided in the 'PaperResult/Label_Fine Sgementation Results'.
-The sample based segmentation results are provided in the 'PaperResult/Label_Sample based Segmentation Results'
+1) Results of maize point clouds reconstructed from multi-view images
+The coarse segmentation results are provided in the 'Supplementary Data\S1\2-Coarse Segmentation Results' folder.
+The fine segmentation results  are provided in the 'Supplementary Data\S1\3-Fine Segmentation Results' folder.
+The sample based segmentation results are provided in the 'Supplementary Data\S1\4-Sample Based Segmentation Results' folder.
+2) Results of maize point clouds acquired by handeld 3D scanner
+The coarse segmentation results are provided in the 'Supplementary Data\S2\2-Coarse' folder.
+The fine segmentation results  are provided in the 'Supplementary Data\S2\3-Fine' folder.
+3) Results of other plant point clouds 
+The coarse segmentation results are provided in the 'Supplementary Data\S3\2-Coarse' folder.
+The fine segmentation results  are provided in the 'Supplementary Data\S3\3-Fine' folder.
 
-
-### How to use Label3DMaize
-The software manual is in document ‘User Manual.pdf’.
-
-
-### The Supplementary Data
-The Supplementary Data S1 can be found in folder "TestData/TXT/"
-The Supplementary Data S2 can be found in folder "PaperResult/Label_Coarse  Segmentation Results/"
-The Supplementary Data S3 can be found in folder "PaperResult/Label_Fine  Sgementation Results/"
-The Supplementary Data S4 can be found in folder "PaperResult/Label_Sample based  Segmentation Results/"
 
 ### License
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License 
