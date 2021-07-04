@@ -34,6 +34,8 @@ This program is free software; you can redistribute it and/or modify it under th
 as published by the Free Software Foundation; either version 3 of the License or (at your option) any later version. 
 The full text of the license can be found in the accompanying LICENSE file.
 
+If you use this software in your paper, please quote
+Miao T., Wen W., Li Y., Wu S., Zhu C., Guo X.,2021. Label3DMaize: toolkit for 3D point cloud data annotation of maize shoots. Gigascience. 10,(5),1-15. https://doi.org/10.1093/gigascience/giab031
 
 Should you have any questions, comments, or suggestions, please contact us at miaoteng@syau.edu.cn or wenwl@nercita.org.cn
 
